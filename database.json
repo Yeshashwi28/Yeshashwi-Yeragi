@@ -1,0 +1,209 @@
+{
+  "personal": {
+    "name": "Yeshashwi yeragi",
+    "shortName": "YN",
+    "role": "part1 Mcom student",
+    "tagline": "Aspiring Business Professional | Curious Learner | Future Entrepreneur",
+    "about": "I am a part1 Master of Commerce student interested in E-Commerce. I enjoy learning new skills, working on practical projects, and exploring ideas that can create real-world impact.",
+    "location": "Goa, India",
+    "email": "yyeshashwi@gmail.com",
+    "phone": "+91 98765 43210",
+    "resume": "#",
+    "profileImage": ""
+  },
+
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/yourusername",
+    "github": "https://github.com/yourusername",
+    "instagram": "https://www.instagram.com/yourusername",
+    "twitter": "https://x.com/yourusername"
+  },
+
+  "navigation": [
+    {
+      "label": "Home",
+      "target": "home"
+    },
+    {
+      "label": "About",
+      "target": "about"
+    },
+    {
+      "label": "Education",
+      "target": "education"
+    },
+    {
+      "label": "Skills",
+      "target": "skills"
+    },
+    {
+      "label": "Projects",
+      "target": "projects"
+    },
+    {
+      "label": "Contact",
+      "target": "contact"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master of Commerce (Mcom)",
+      "institution": "S.S Dempo college of Commerce",
+      "location": "Goa, India",
+      "startYear": "2026",
+      "endYear": "2028",
+      "status": "Currently Pursuing",
+      "description": "Currently pursuing my MCom with an interest in Ecommerce."
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "Your School",
+      "location": "Goa, India",
+      "startYear": "2024",
+      "endYear": "2026",
+      "status": "Completed",
+      "description": "Completed higher secondary education with a focus on commerce and business-related subjects."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Communication",
+      "category": "Soft Skills",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Presentation",
+      "category": "Soft Skills",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Teamwork",
+      "category": "Soft Skills",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Leadership",
+      "category": "Soft Skills",
+      "level": "Beginner"
+    },
+    {
+      "name": "Microsoft Excel",
+      "category": "Business Tools",
+      "level": "Beginner"
+    },
+    {
+      "name": "PowerPoint",
+      "category": "Business Tools",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Canva",
+      "category": "Design",
+      "level": "Intermediate"
+    },
+    {
+      "name": "HTML",
+      "category": "Technical",
+      "level": "Beginner"
+    },
+    {
+      "name": "CSS",
+      "category": "Technical",
+      "level": "Beginner"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Technical",
+      "level": "Beginner"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Business Case Study",
+      "description": "A college project analyzing a real-world company's business model, target audience, competitive landscape, and growth opportunities.",
+      "category": "Business",
+      "technologies": [
+        "Research",
+        "PowerPoint",
+        "Excel"
+      ],
+      "date": "2026",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "description": "A responsive personal portfolio website built using HTML, CSS, and JavaScript with content managed through a JSON database.",
+      "category": "Web Development",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "date": "2026",
+      "link": "#",
+      "featured": true
+    },
+    {
+      "title": "Marketing Research Project",
+      "description": "A student research project exploring consumer preferences, purchasing behavior, and potential marketing strategies.",
+      "category": "Marketing",
+      "technologies": [
+        "Google Forms",
+        "Excel",
+        "Research"
+      ],
+      "date": "2026",
+      "link": "#",
+      "featured": false
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Introduction to Digital Marketing",
+      "issuer": "Example Learning Platform",
+      "year": "2026",
+      "link": "#"
+    },
+    {
+      "name": "Excel for Beginners",
+      "issuer": "Example Learning Platform",
+      "year": "2026",
+      "link": "#"
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "College Presentation Competition",
+      "description": "Participated in an inter-college presentation competition.",
+      "year": "2026"
+    },
+    {
+      "title": "Business Quiz",
+      "description": "Participated in a college-level business and current affairs quiz.",
+      "year": "2026"
+    }
+  ],
+
+  "interests": [
+    "Entrepreneurship",
+    "Marketing",
+    "Finance",
+    "Technology",
+    "Startups",
+    "Public Speaking",
+    "Reading"
+  ],
+
+  "contact": {
+    "heading": "Let's Connect",
+    "description": "Whether you want to discuss a project, internship opportunity, collaboration, or simply connect, feel free to reach out.",
+    "email": "your.email@example.com"
+  }
+}
